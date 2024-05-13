@@ -1,0 +1,2 @@
+# Rotaryencoder_angle
+ロータリエンコーダを使って角度を検出する
