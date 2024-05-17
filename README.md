@@ -1,2 +1,2 @@
-# Rotaryencoder_angle
-ロータリエンコーダを使って角度を検出する
+# Rotaryencoder
+ロータリエンコーダによる角度および角速度の検出
