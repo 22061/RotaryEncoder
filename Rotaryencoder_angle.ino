@@ -1,4 +1,4 @@
-int count = 0;
+long count = 0;
 int rotate_count = 0;
 int angle = 0;
 int i = 0;
@@ -23,8 +23,6 @@ void loop()
   angle = map(i, -PPR, PPR, -360, 360);
   Serial.print(angle);  //回転した角度
   Serial.println("°");
-
-  delay(20);
 }
 
 void encoder_pulse()
