@@ -1,2 +1,2 @@
-# Rotaryencoder
-ロータリエンコーダによる角度および角速度の検出
+# RotaryEncoder
+ロータリエンコーダによる角度の検出
